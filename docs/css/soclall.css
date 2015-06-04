@@ -1,0 +1,105 @@
+aside {
+    padding: 1em;
+    text-shadow: 0 1px 0 #c6dde9;
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+    background: #8fbcd4;
+}
+
+aside.soclall-success {
+    background-color: #6ac174;
+    text-shadow: 0 1px 0 #a0d7a6;
+}
+
+aside.soclall-warning {
+    background-color: #c97a7e;
+    text-shadow: 0 1px 0 #dfb0b3;
+}
+
+aside code {
+    padding: 3px;
+}
+
+.soclall-icon-check::before {
+    color: #6ac174;
+    font-size: 20px;
+}
+
+.soclall-br {
+    margin: 1.5em 0;
+}
+
+.rst-content table {
+    border: 1px solid #E1E4E5;
+    border-collapse: collapse;
+    border-spacing: 0;
+    empty-cells: show;
+    margin-bottom: 24px;
+}
+
+.rst-content table thead {
+    color: #000;
+    text-align: left;
+    vertical-align: bottom;
+    white-space: nowrap;
+}
+
+.rst-content table th:first-child {
+    border-left-width: 0;
+}
+
+.rst-content table thead th {
+    font-weight: bold;
+    border-bottom: 2px solid #E1E4E5;
+    font-size: 90%;
+    margin: 0;
+    overflow: visible;
+    padding: 8px 16px;
+}
+
+.rst-content table td {
+    font-size: 90%;
+    margin: 0px;
+    overflow: visible;
+    padding: 8px 16px;
+    border-bottom: 1px solid #E1E4E5;
+    border-left: 1px solid #E1E4E5;
+    vertical-align: middle;
+}
+
+.rst-content table tr:nth-child(2n-1) td {
+    background-color: #F3F6F6;
+}
+
+.rst-content table tbody > tr:last-child td {
+    border-bottom-width: 0;
+}
+
+.rst-content table td:first-child {
+    border-left-width: 0;
+}
+
+.rst-content img {
+    border: 2px solid #2980B9 !important;
+}
+
+.rst-content a {
+    font-weight: bold;
+}
+
+.wy-nav-content {
+    width: 100%;
+    max-width: 100%;
+}
+
+.small-size {
+    width: 600px;
+    transition: width 500ms;
+    -webkit-transition: width 500ms;
+    cursor: zoom-in;
+}
+
+.big-size {
+    width: 800px;
+    cursor: zoom-out;
+}

@@ -1,0 +1,31 @@
+site_name: SoclAll
+repo_url: http://www.soclall.com/
+repo_name: SoclAll
+site_author: SandKlock
+site_favicon: favicon.ico
+pages:
+- ['index.md', 'SoclAll']
+- ['user-guide/facebook.md', 'User Guide', 'Facebook']
+- ['user-guide/twitter.md', 'User Guide', 'Twitter']
+- ['user-guide/linkedin.md', 'User Guide', 'Linkedin']
+- ['user-guide/google.md', 'User Guide', 'Google Plus']
+- ['user-guide/plurk.md', 'User Guide', 'Plurk']
+- ['user-guide/tumblr.md', 'User Guide', 'Tumblr']
+- ['user-guide/mailru.md', 'User Guide', 'Mail.Ru']
+- ['user-guide/live.md', 'User Guide', 'Live']
+- ['user-guide/reddit.md', 'User Guide', 'Reddit']
+- ['user-guide/lastfm.md', 'User Guide', 'Last.fm']
+- ['user-guide/vkontakte.md', 'User Guide', 'Vkontakte']
+- ['user-guide/disqus.md', 'User Guide', 'Disqus']
+- ['user-guide/wordpress.md', 'User Guide', 'Wordpress']
+- ['user-guide/foursquare.md', 'User Guide', 'Foursquare']
+- ['user-guide/github.md', 'User Guide', 'GitHub']
+- ['developer-guide/index.md', 'Developer Guide', 'Getting Started']
+- ['developer-guide/restful.md', 'Developer Guide', 'RESTful']
+- ['developer-guide/nodejs.md', 'Developer Guide', 'Node.js']
+- ['developer-guide/php.md', 'Developer Guide', 'PHP']
+- ['developer-guide/user-object.md', 'Developer Guide', 'User Object']
+theme: readthedocs
+extra_css: ['css/soclall.css']
+extra_javascript: ['js/soclall.js']
+include_search: true
