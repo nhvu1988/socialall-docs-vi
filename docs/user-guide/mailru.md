@@ -4,11 +4,9 @@ __Để đăng kí 1 ứng dụng trên Mail.ru, vui lòng làm theo các bướ
 2. Điền vào form với thông tin bên dưới
     * Title: SoclAll
     * Website URL: __http://api.soclall.com/__
-    
     <div class="soclall-br"></div>
     ![Mail.Ru : Create Form](/img/mailru-1-create-form.JPG)
     <div class="soclall-br"></div>
-    
 3. Sau đó nhấn vào "Register App" .
 4. Sau khi thành công tạo ứng dụng, đi đến trang Edit và bạn có thể lấy "ID" và "Secret key" để điền vào SoclAll Mail.Ru Settings form.
     <div class="soclall-br"></div>

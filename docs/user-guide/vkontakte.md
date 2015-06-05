@@ -10,10 +10,8 @@ __Để đăng kí 1 ứng dụng trên VK, vui lòng làm theo các bước sau
     * Chuyển Open API to "Enabled" và điền thông tin bên dưới
         - Site address: __http://soclall.com__
         - Base domain: __soclall.com__
-    
     <div class="soclall-br"></div>
     ![VK : Enable App](/img/vk-2-enable-app.png)
     <div class="soclall-br"></div>
-    
-4. ở mục settings, bạn có thể lấy "Application ID" và "Secure key" để điền vào SoclAll VK Settings form
+4. Tại mục settings, bạn có thể lấy "Application ID" và "Secure key" để điền vào SoclAll VK Settings form
 

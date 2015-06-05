@@ -9,7 +9,7 @@ __Để đăng kí 1 ứng dụng trên Foresquare, vui lòng làm theo các bư
     <div class="soclall-br"></div>
     
 3. Sau khi thành công tạo ứng dụng, đi đến trang "Application Management".
-4. ở mục "App Details", bạn có thể thấy "Client ID" và"Client Secret" để điền vào SocialAll Foursquare Setting.
+4. Tại mục "App Details", bạn có thể thấy "Client ID" và"Client Secret" để điền vào SocialAll Foursquare Setting.
     <div class="soclall-br"></div>
     ![Foursquare : Api Info](/img/foursquare-2-api-info.png)
     <div class="soclall-br"></div>

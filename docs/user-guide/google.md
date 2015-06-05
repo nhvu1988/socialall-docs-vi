@@ -1,11 +1,11 @@
 __Để đăng kí 1 ứng dụng trên Google, vui lòng làm theo các bước sau:__
 
-1. Đăng nhập vào [Google Account](https://accounts.google.com/) và đi đến trang [Google Developer](https://console.developers.google.com/) to create application
+1. Đăng nhập vào [Google Account](https://accounts.google.com/) và đi đến trang [Google Developer](https://console.developers.google.com/) để tạo ứng dụng
 2. Nhấn nút "Create Project" và điền tên project và id project
     <div class="soclall-br"></div>
     ![Google : Create Form](/img/google-2-create-form.JPG)
     <div class="soclall-br"></div>
-3. khi project được tạo thành công, chọn mục "Consent screen", và điền "Product Name" sau đó ấn nút "Save".
+3. Khi project được tạo thành công, chọn mục "Consent screen" và điền "Product Name" sau đó ấn nút "Save".
     <div class="soclall-br"></div>
     ![Google : Consent Screen](/img/google-3-consent-screen.jpg)
     <div class="soclall-br"></div>
@@ -17,7 +17,7 @@ __Để đăng kí 1 ứng dụng trên Google, vui lòng làm theo các bước
     <div class="soclall-br"></div>
     ![Google : Credentials](/img/google-4-credentials.JPG)
     <div class="soclall-br"></div>
-6. sau khi tạo thành công Client Id, bạn có thể lấy "Client ID" và "Client Secret" để điền vào SoclAll Google Settings form.
+6. Sau khi tạo thành công Client Id, bạn có thể lấy "Client ID" và "Client Secret" để điền vào SoclAll Google Settings form.
     <div class="soclall-br"></div>
     ![Google : Client Info](/img/google-5-client-info.JPG)
     <div class="soclall-br"></div>

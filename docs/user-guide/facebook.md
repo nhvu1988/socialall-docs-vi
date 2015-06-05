@@ -18,8 +18,8 @@ __To register an application on Facebook, please follow all steps below:__
     ![Facebook : Setting Page](/img/facebook-3-setting-page.JPG)
     <div class="soclall-br"></div>
     
-6.  Chọn mục "Status & Review", và trong thẻ "Status", chuyển "No" sang "Yes" ở ô đầu tiên. 
+6. Chọn mục "Status & Review", và trong thẻ "Status", chuyển "No" sang "Yes" ở ô đầu tiên. 
     <div class="soclall-br"></div>
     ![Facebook : Status Page](/img/facebook-4-status-page.jpg)
     <div class="soclall-br"></div>    
-7. ở trang Settings, bạn có thể lấy "App ID" và "App Secret" để điền vào form SocialAll Facebook setting.
+7. Tại trang Settings, bạn có thể lấy "App ID" và "App Secret" để điền vào form SocialAll Facebook setting.
