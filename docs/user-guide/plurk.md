@@ -1,7 +1,7 @@
-__To register an application on Plurk, please follow the steps below:__
+__Để đăng kí 1 ứng dụng trên Plurk, vui lòng làm theo các bước sau:__
 
-1. Login to [Plurk](http://www.plurk.com/) and go to Page [Plurk App](http://www.plurk.com/PlurkApp) to create application
-2. Press button "Create a new Plurk App" and fill the create form with the below information
+1.  Đăng nhập vào [Plurk](http://www.plurk.com/) và đi tới trang [Plurk App](http://www.plurk.com/PlurkApp) to create application
+2. ấn nút "Create a new Plurk App" Và điền thông tin bên dưới
     * App type: select "Third-party web site intergration"
     * OAuth callback: __http://api.soclall.com/callback__
     
@@ -9,8 +9,8 @@ __To register an application on Plurk, please follow the steps below:__
     ![Plurk : Create Form](/img/plurk-1-create-form.JPG)
     <div class="soclall-br"></div>
     
-3. Then press button "Register App"
-4. After successfully registered the application, go to edit page and get the "App key" and "App secret" to fill SoclAll Plurk Settings form.
+3. Sau đó nhấn nút "Register App"
+4. Sau khi tạo ứng dụng thành công, đi đến trang Edit ,bạn có thể lấy "App key" và "App secret" để điền vào SoclAll Plurk Settings form.
     <div class="soclall-br"></div>
     ![Plurk : Edit Form](/img/plurk-2-edit-form.JPG)
     <div class="soclall-br"></div>

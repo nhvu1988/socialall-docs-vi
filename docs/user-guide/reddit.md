@@ -1,8 +1,8 @@
-__To register an application on Reddit, please follow the steps below:__
+__Để đăng kí 1 ứng dụng trên Reddit, vui lòng làm theo các bước sau:__
 
-1. Login to [Reddit](https://www.reddit.com/) and go to Page [Reddit Apps](https://www.reddit.com/prefs/apps/) to create application
+1. Đăng nhập vào [Reddit](https://www.reddit.com/) và đi đến trang [Reddit Apps](https://www.reddit.com/prefs/apps/) và tạo ứng dụng
 
-2. Press button "are you a developer? create an app..." and fill the create form with the below information
+2. ấn nút "are you a developer? create an app..." và điền vào thông tin bên dưới
     * Select "web app"
     * redirect uri: __http://api.soclall.com/callback__
     
@@ -10,8 +10,8 @@ __To register an application on Reddit, please follow the steps below:__
     ![Reddit : Create Form](/img/reddit-1-create-form.JPG)
     <div class="soclall-br"></div>
     
-3. Then press button "create app"
-4. After successfully registered the application, go to edit page and get the "key" and "secret" to fill SoclAll Reddit Settings form.
+3. Sau đó nhấn nút "create app"
+4. Sau khi thành công tạo ứng dụng, đi đến trang Edit và bạn có thể lấy "key" và "secret" để điền vào SoclAll Reddit Settings form.
     <div class="soclall-br"></div>
     ![Reddit : Edit Form](/img/reddit-2-edit-form.JPG)
     <div class="soclall-br"></div>

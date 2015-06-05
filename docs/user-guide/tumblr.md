@@ -1,15 +1,15 @@
-__To register an application on Tumblr, please follow the steps below:__
+__Để đăng kí 1 ứng dụng trên Tumblr, vui lòng làm theo các bước sau:__
 
-1. Login to [Tumblr](https://www.tumblr.com/) and go to Page [Tumblr Apps](https://www.tumblr.com/oauth/apps) to create application
-2. Press button "+ Register application" and then fill the create form with the below information
+1. Đăng nhập vào [Tumblr](https://www.tumblr.com/) và đi đến trang [Tumblr Apps](https://www.tumblr.com/oauth/apps) để tạo ứng dụng
+2. ấn nút "+ Register application" và điền vào thông tin bên dưới 
     * Default callback URL: __http://api.soclall.com/callback__
     
     <div class="soclall-br"></div>
     ![Tumblr : Register Form](/img/tumblr-1-register-form.jpg)
     <div class="soclall-br"></div>
     
-3. Then press button "Register"
-4. After successfully registered the application, go to edit app page and get the "OAuth consumer key" and "OAuth consumer secret" to fill SoclAll Tumblr Settings form.
+3. Sau đó nhấn nút "Register"
+4. Sau khi tạo ứng dụng thành công , đi đến trang edit và bạn có thể lấy "OAuth consumer key" và "OAuth consumer secret" để điền vào SoclAll Tumblr Settings form.
     <div class="soclall-br"></div>
     ![Tumblr : Register App](/img/tumblr-2-registered-app.jpg)
     <div class="soclall-br"></div>

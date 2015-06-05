@@ -1,15 +1,15 @@
-__To register an application on Foursquare, please follow the steps below:__
+__Để đăng kí 1 ứng dụng trên Foresquare, vui lòng làm theo các bước sau:__
 
-1. Login to [Foursquare](https://developer.foursquare.com/) and go to Page [Foursquare App](https://foursquare.com/developers/register) to create application
-2. Press button "Create A New App" and then fill the application form with the below information
+1. Đăng nhập vào [Foursquare](https://developer.foursquare.com/) và đi đến trang [Foursquare App](https://foursquare.com/developers/register) để tạo ứng dụng
+2. Nhấn nút "Create A New App" và điền đầy đủ thông tin theo dưới đây
     * Redirect URI(s): __http://api.soclall.com/callback__
     
     <div class="soclall-br"></div>
     ![Foursquare : Create Form](/img/foursquare-1-create-form.png)
     <div class="soclall-br"></div>
     
-3. After successfully registered the application, go to "Application Management".
-4. In tab "App Details", you can find "Client ID" and "Client Secret" to fill SoclAll Foursquare Settings form.
+3. Sau khi thành công tạo ứng dụng, đi đến trang "Application Management".
+4. ở mục "App Details", bạn có thể thấy "Client ID" và"Client Secret" để điền vào SocialAll Foursquare Setting.
     <div class="soclall-br"></div>
     ![Foursquare : Api Info](/img/foursquare-2-api-info.png)
     <div class="soclall-br"></div>

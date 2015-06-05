@@ -1,14 +1,14 @@
-__To register an application on Wordpress, please follow the steps below:__
+__Để đăng kí 1 ứng dụng trên Wordpress, vui lòng làm theo các bước sau:__
 
-1. Login to [Wordpress](https://developer.wordpress.com/apps/) and go to Page [Wordpress App](https://developer.wordpress.com/apps/new/) to create application
-2. Press button "Create New Application" and then fill the application form with the below information
+1. Đăng nhập vào [Wordpress](https://developer.wordpress.com/apps/) Và đi đến trang [Wordpress App](https://developer.wordpress.com/apps/new/) để tạo ứng dụng
+2. ấn nút "Create New Application" và điền thông tin như bên dưới
     * Redirect URL: __http://api.soclall.com/callback__
-3. Then press button "Create"
+3. Sau đó nhấn nút "Create"
     <div class="soclall-br"></div>
     ![Wordpress : Create Form](/img/wordpress-1-create-form.png)
     <div class="soclall-br"></div>
-4. After successfully registered the application, go to "Application Management".
-5. In session "OAuth Information", you can find "Client ID" and "Client Secret" to fill SoclAll Wordpress Settings form.
+4. Sau khi tạo ứng dụng thành công, đi đến "Application Management".
+5. ở trong mục "OAuth Information", bạn có thể lấy "Client ID" và "Client Secret" để điền vào fill SoclAll Wordpress Settings form.
     <div class="soclall-br"></div>
     ![Wordpress : Api Info](/img/wordpress-2-api-info.png)
     <div class="soclall-br"></div>
