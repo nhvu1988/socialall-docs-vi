@@ -1,11 +1,11 @@
-__To register an application on Facebook, please follow all steps below:__
+__Để tạo một ứng dụng trên Facebook, hãy làm theo các bước sau:__
 
-1. Đăng nhập vào [Facebook](http://www.facebook.com)và đi đến trang [Facebook Developer Page](https://developers.facebook.com/quickstarts/?platform=web) to create application.
+1. Đăng nhập vào [Facebook](http://www.facebook.com)và đi đến trang [Facebook Developer Page](https://developers.facebook.com/quickstarts/?platform=web) để tạo ứng dụng.
 2. Điền các thông tin cần thiết và nhấn nút "Create New Facebook App ID".
     <div class="soclall-br"></div>
     ![Facebook : Create App name](/img/facebook-1-create-app-name.JPG)
     <div class="soclall-br"></div>
-3. Chọn bất kỳ mục nào và nhấn nút "Create App ID".
+3. Chọn bất kỳ một "Category" và nhấn nút "Create App ID".
     <div class="soclall-br"></div>
     ![Facebook : Select Any Category](/img/facebook-2-select-any-category.JPG)
     <div class="soclall-br"></div>
@@ -22,4 +22,4 @@ __To register an application on Facebook, please follow all steps below:__
     <div class="soclall-br"></div>
     ![Facebook : Status Page](/img/facebook-4-status-page.jpg)
     <div class="soclall-br"></div>    
-7. Tại trang Settings, bạn có thể lấy "App ID" và "App Secret" để điền vào form SocialAll Facebook setting.
+7. Tại trang "Settings", bạn có thể lấy "App ID" và "App Secret" để nhập vào thiết lập ứng dụng Facebook trên SoclAll.

@@ -9,7 +9,7 @@ __Để đăng kí 1 ứng dụng trên GitHub, vui lòng làm theo các bước
     <div class="soclall-br"></div>
     
 3. Sau khi tạo thành công, đi đến mục "Application Management".
-4. Trong trang Details, bạn có thể thấy "Client ID" và "Client Secret" để điền vào thông số cho SoclAll GitHub.
+4. Trong trang Details, bạn có thể thấy "Client ID" và "Client Secret" để nhập vào thiết lập ứng dụng GitHub trên SoclAll.
     <div class="soclall-br"></div>
     ![GitHub : Api Info](/img/github-2-app-info.png)
     <div class="soclall-br"></div>

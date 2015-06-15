@@ -5,12 +5,12 @@ __Để đăng kí 1 ứng dụng trên Last.fm, vui lòng làm theo các bướ
     <div class="soclall-br"></div>
     ![Last.fm : Create Form](/img/lastfm-1-create-form.jpg)
     <div class="soclall-br"></div>
-3. Sau khi tạo thành công ứng dụng, chọn phần Authentication session, điền callback url và bấm save
+3. Sau khi tạo thành công ứng dụng, chọn phần "Authentication", điền "Callback URL" và bấm "Save"
     * Callback URL: __https://api.soclall.com/callback__
     <div class="soclall-br"></div>
     ![Last.fm : Update Callback](/img/lastfm-2-update-callback.JPG)
     <div class="soclall-br"></div>
-4. Tại trang này, bạn có thể lấy "API Key" và "Secret" để điền vào SoclAll Last.fm Settings form.
+4. Tại trang này, bạn có thể lấy "API Key" và "Secret" để nhập vào thiết lập ứng dụng Last.fm trên SoclAll.
     <div class="soclall-br"></div>
     ![Last.fm : Settings](/img/lastfm-3-settings.JPG)
     <div class="soclall-br"></div>

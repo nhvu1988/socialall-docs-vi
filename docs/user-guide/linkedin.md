@@ -6,7 +6,7 @@ __Để đăng kí 1 ứng dụng trên LinkedIn, vui lòng làm theo các bư�
     <div class="soclall-br"></div>
 2. Ấn nút "Add New Application" và điền thông tin vào như dưới đây
     * Website URL: __http://soclall.com/__
-3. Sau đó, chọn ô Agreement và nhấn nút "Submit".
+3. Sau đó, chọn ô "Agreement" và nhấn nút "Submit".
     <div class="soclall-br"></div>
     ![Linkedin : Create App Form](/img/linkedin-2-create-app-form.jpg)
     <div class="soclall-br"></div>
@@ -24,4 +24,4 @@ __Để đăng kí 1 ứng dụng trên LinkedIn, vui lòng làm theo các bư�
     <div class="soclall-br"></div>
     ![Linkedin : Settings Page](/img/linkedin-4-settings-page.jpg)
     <div class="soclall-br"></div>
-9. Tại trang "Authentication" , bạn có thể lấy "Client ID" và "Client Secret" để điền vào SoclAll LinkedIn Settings form.
+9. Tại trang "Authentication" , bạn có thể lấy "Client ID" và "Client Secret" để nhập vào thiết lập ứng dụng LinkedIn trên SoclAll.
