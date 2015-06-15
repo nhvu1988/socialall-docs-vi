@@ -10,14 +10,19 @@ __Để đăng kí 1 ứng dụng trên Google, vui lòng làm theo các bước
     ![Google : Consent Screen](/img/google-3-consent-screen.jpg)
     <div class="soclall-br"></div>
 4. Sau đó, chọn mục "Credentials", nhấn nút "Create new Client ID" và điền thông tin bên dưới
-    * Application Type: select "Web application"
+    * Application Type: chọn __Web application__
     * Authorized Javascript Origins: __http://api.soclall.com/__
-    * Authorized Redirect Uris: __http://api.soclall.com/callback__
+    * Authorized Redirect Uris: __https://api.soclall.com/callback__
 5. Sau đó nhấn nút "Create Client ID"
     <div class="soclall-br"></div>
     ![Google : Credentials](/img/google-4-credentials.JPG)
     <div class="soclall-br"></div>
-6. Sau khi tạo thành công Client Id, bạn có thể lấy "Client ID" và "Client Secret" để điền vào SoclAll Google Settings form.
+6. Chọn mục "APIs", tại "API Library", chọn "Google+ API" trong mục "Social APIs".
+7. Sau đó nhấn nút "Enable API".
+    <div class="soclall-br"></div>
+    ![Google : Enable APIs](/img/google-5-apis.jpg)
+    <div class="soclall-br"></div>
+8. Sau khi tạo thành công Client Id, bạn có thể lấy "Client ID" và "Client Secret" để điền vào SoclAll Google Settings form.
     <div class="soclall-br"></div>
     ![Google : Client Info](/img/google-5-client-info.JPG)
     <div class="soclall-br"></div>

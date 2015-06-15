@@ -3,7 +3,7 @@ __Để đăng kí 1 ứng dụng trên Plurk, vui lòng làm theo các bước 
 1.  Đăng nhập vào [Plurk](http://www.plurk.com/) và đi tới trang [Plurk App](http://www.plurk.com/PlurkApp) để tạo ứng dụng
 2. ấn nút "Create a new Plurk App" Và điền thông tin bên dưới
     * App type: chọn "Third-party web site intergration"
-    * OAuth callback: __http://api.soclall.com/callback__
+    * OAuth callback: __https://api.soclall.com/callback__
     
     <div class="soclall-br"></div>
     ![Plurk : Create Form](/img/plurk-1-create-form.JPG)

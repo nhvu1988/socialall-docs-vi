@@ -10,10 +10,10 @@ __To register an application on Facebook, please follow all steps below:__
     ![Facebook : Select Any Category](/img/facebook-2-select-any-category.JPG)
     <div class="soclall-br"></div>
 4. Nhấn nút "Skip Quick Start" Và đi đến trang "App Setting".
-5. Chọn mục "Settings", Và điền thông tin bên dưới:
+5. Chọn mục "Settings", nhấn nút "+ Add Platform"  Và điền thông tin bên dưới:
     * App Domains: __api.soclall.com__
     * Contact Email: __(your email)__
-    * Site URL: __http://api.soclall.com/callback__  
+    * Site URL: __https://api.soclall.com/callback__  
 
     ![Facebook : Setting Page](/img/facebook-3-setting-page.JPG)
     <div class="soclall-br"></div>
