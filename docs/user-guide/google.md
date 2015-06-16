@@ -1,7 +1,7 @@
 __Để đăng kí một ứng dụng trên Google, vui lòng làm theo các bước sau:__
 
 1. Đăng nhập vào [Google Account](https://accounts.google.com/) và đi đến trang [Google Developer](https://console.developers.google.com/) để tạo ứng dụng
-2. Nhấn nút "Create Project" và điền tên ứng dụng (Project Name), mã ứng dụng (Project ID).
+2. Nhấn nút "Create Project" và điền tên ứng dụng (Project Name), mã ứng dụng (Project ID). Sau khi điền xong, nhấn nút "Create".
     <div class="soclall-br"></div>
     ![Google : Create Form](/img/google-2-create-form.JPG)
     <div class="soclall-br"></div>
@@ -13,8 +13,8 @@ __Để đăng kí một ứng dụng trên Google, vui lòng làm theo các bư
     * Application Type: chọn __Web application__
     * Authorized Javascript Origins: __http://api.soclall.com/__
     * Authorized Redirect Uris: 
-        __http://api.soclall.com/callback__
-        __https://api.soclall.com/callback__
+        - __http://api.soclall.com/callback__
+        - __https://api.soclall.com/callback__
 5. Sau đó nhấn nút "Create Client ID"
     <div class="soclall-br"></div>
     ![Google : Credentials](/img/google-4-credentials.JPG)

@@ -1,4 +1,4 @@
-__Để đăng kí 1 ứng dụng trên Disqus, vui lòng làm theo các bước sau:__
+__Để đăng kí một ứng dụng trên Disqus, vui lòng làm theo các bước sau:__
 
 1. Đăng nhập vào [Disqus](http://disqus.com/) và đi đến trang [Disqus Developer](https://disqus.com/api/applications/register/) để tạo ứng dụng
 2. Điền các thông tin cần thiết và nhấn nút "Register my application".
@@ -13,7 +13,7 @@ __Để đăng kí 1 ứng dụng trên Disqus, vui lòng làm theo các bước
     ![Disqus : Settings](/img/disqus-2-settings.png)
     <div class="soclall-br"></div>
     
-4. Trong mục "Details", bạn có thể lấy "API Key" và "API Secret" để nhập vào thiết lập ứng dụng Disqus trên SoclAll.
+4. Trong mục "Details", bạn có thể thấy "API Key" và "API Secret" và lấy chúng để nhập vào Thiết lập ứng dụng Disqus trên SoclAll.
     <div class="soclall-br"></div>
     ![Disqus : Api Info](/img/disqus-3-api-info.png)
     <div class="soclall-br"></div>
