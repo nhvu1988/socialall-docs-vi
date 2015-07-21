@@ -2,7 +2,7 @@ __Để đăng kí một ứng dụng trên Foursquare, vui lòng làm theo các
 
 1. Đăng nhập vào [Foursquare](https://developer.foursquare.com/) và đi đến trang [Foursquare App](https://foursquare.com/developers/register) để tạo ứng dụng
 2. Nhấn nút "Create A New App" và điền đầy đủ thông tin theo dưới đây
-    * Redirect URI(s): __https://api.soclall.com/callback__
+    * Redirect URI(s): __https://api2.soclall.com/callback__
     
     <div class="soclall-br"></div>
     ![Foursquare : Create Form](/img/foursquare-1-create-form.png)

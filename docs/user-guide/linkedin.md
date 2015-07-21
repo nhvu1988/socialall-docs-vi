@@ -15,7 +15,7 @@ __Để đăng kí một ứng dụng trên LinkedIn, vui lòng làm theo các b
     * r_basicprofile: nếu bạn muốn sử dụng "SoclAll Login"
     * r_emailaddress: nếu bạn muốn sử dụng "SoclAll Invite"
     * w_share: nếu bạn muốn sử dụng "SoclAll Posting"
-6. Tại phần "OAuth 2.0", điền vào "Authorized Redirect URLs" : __http://api.soclall.com/callback__ và ấn nút "Add". Sau đó, điền lần nữa: __https://api.soclall.com/callback__ và ấn nút "Add".
+6. Tại phần "OAuth 2.0", điền vào "Authorized Redirect URLs" : __http://api2.soclall.com/callback__ và ấn nút "Add". Sau đó, điền lần nữa: __https://api2.soclall.com/callback__ và ấn nút "Add".
     <div class="soclall-br"></div>
     ![Linkedin : Authentication Page](/img/linkedin-3-authentication-page.jpg)
     <div class="soclall-br"></div>    

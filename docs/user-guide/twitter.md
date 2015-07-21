@@ -2,8 +2,8 @@ __Để đăng kí một ứng dụng trên Twitter, vui lòng làm theo các b�
 
 1. Đăng nhập vào [Twitter](https://www.twitter.com/) và đi đến trang [Twitter App](http://apps.twitter.com/) để tạo ứng dụng.
 2. Ấn nút "Create New App" và điền thông tin tạo ứng dụng như bên dưới
-    * Website: __http://api.soclall.com/__
-    * Callback URL: __https://api.soclall.com/callback__
+    * Website: __http://api2.soclall.com/__
+    * Callback URL: __https://api2.soclall.com/callback__
 3. Sau đó click chọn ô "Yes, I agree" và nhấn nút "Create your Twitter application"
     <div class="soclall-br"></div>
     ![Twitter : Create App Form](/img/twitter-1-create-app-form.jpg)

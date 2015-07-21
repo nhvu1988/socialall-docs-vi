@@ -3,7 +3,7 @@ __Để đăng kí một ứng dụng trên Reddit, vui lòng làm theo các bư
 1. Đăng nhập vào [Reddit](https://www.reddit.com/) và đi đến trang [Reddit Apps](https://www.reddit.com/prefs/apps/) và tạo ứng dụng
 2. Nhấn nút "are you a developer? create an app..." và điền vào thông tin bên dưới
     * Chọn __web app__
-    * redirect uri: __https://api.soclall.com/callback__
+    * redirect uri: __https://api2.soclall.com/callback__
     
     <div class="soclall-br"></div>
     ![Reddit : Create Form](/img/reddit-1-create-form.JPG)

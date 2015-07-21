@@ -7,7 +7,7 @@ __Để đăng kí một ứng dụng trên Disqus, vui lòng làm theo các bư
     <div class="soclall-br"></div>
 3. Đi đến mục "Settings" và điền các thông tin như bên dưới:
     * Domain: __soclall.com__
-    * Callback URL: __https://api.soclall.com/callback__
+    * Callback URL: __https://api2.soclall.com/callback__
     
     <div class="soclall-br"></div>
     ![Disqus : Settings](/img/disqus-2-settings.png)

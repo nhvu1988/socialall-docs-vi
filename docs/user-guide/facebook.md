@@ -11,9 +11,9 @@ __Để tạo một ứng dụng trên Facebook, hãy làm theo các bước sau
     <div class="soclall-br"></div>
 4. Nhấn nút "Skip Quick Start" và đi đến trang "App Setting".
 5. Chọn mục "Settings", nhấn nút "+ Add Platform"  và điền theo các thông tin bên dưới:
-    * App Domains: __api.soclall.com__
+    * App Domains: __api2.soclall.com__
     * Contact Email: __(your email)__
-    * Site URL: __https://api.soclall.com/callback__  
+    * Site URL: __https://api2.soclall.com/callback__  
 
     ![Facebook : Setting Page](/img/facebook-3-setting-page.JPG)
     <div class="soclall-br"></div>

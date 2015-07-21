@@ -11,10 +11,10 @@ __Để đăng kí một ứng dụng trên Google, vui lòng làm theo các bư
     <div class="soclall-br"></div>
 4. Sau đó, chọn mục "Credentials", nhấn nút "Create new Client ID" và điền thông tin bên dưới
     * Application Type: chọn __Web application__
-    * Authorized Javascript Origins: __http://api.soclall.com/__
+    * Authorized Javascript Origins: __http://api2.soclall.com/__
     * Authorized Redirect Uris: 
-        - __http://api.soclall.com/callback__
-        - __https://api.soclall.com/callback__
+        - __http://api2.soclall.com/callback__
+        - __https://api2.soclall.com/callback__
 5. Sau đó nhấn nút "Create Client ID"
     <div class="soclall-br"></div>
     ![Google : Credentials](/img/google-4-credentials.JPG)

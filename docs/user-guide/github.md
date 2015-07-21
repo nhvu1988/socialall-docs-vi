@@ -2,7 +2,7 @@ __Để đăng kí một ứng dụng trên GitHub, vui lòng làm theo các bư
 
 1. Đăng nhập vào [GitHub](https://github.com/) và đi đến trang [GitHub App](https://github.com/settings/applications) để tạo ứng dụng
 2. Chọn thẻ "Developer applications", sau đó nhấn nút "Register new application" và điền theo thông tin dưới đây:
-    * Authorization callback URL: __https://api.soclall.com/callback__
+    * Authorization callback URL: __https://api2.soclall.com/callback__
 3. Sau khi điền xong, nhấn nút "Register application".
     
     <div class="soclall-br"></div>
