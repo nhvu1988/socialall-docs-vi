@@ -25,5 +25,5 @@ __Để đăng kí một ứng dụng trên Google, vui lòng làm theo các bư
     <div class="soclall-br"></div>
 8. Sau khi tạo thành công Client Id, tại trang "Credentials", nhấn chọn client ID vừa tạo, bạn có thể thấy "Client ID", "Client Secret" và lấy chúng để nhập vào Thiết lập ứng dụng Google trên SoclAll.
     <div class="soclall-br"></div>
-    ![Google : Client Info](/img/google-5-client-info.JPG)
+    ![Google : Client Info](/img/google-6-client-info.JPG)
     <div class="soclall-br"></div>
