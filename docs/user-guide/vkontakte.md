@@ -8,8 +8,8 @@ __Để đăng kí một ứng dụng trên VK, vui lòng làm theo các bước
 3. Sau khi tạo ứng dụng thành công, chọn mục "Settings"
     * Chuyển "Application status" thành __Application on and visible to all__
     * Chuyển "Open API" thành __Enabled__ và điền theo thông tin bên dưới:
-        - Site address: __http://soclall.com__
-        - Base domain: __soclall.com__
+        - Site address: __http://socialall.io__
+        - Base domain: __socialall.io__
     
     <div class="soclall-br"></div>
     ![VK : Enable App](/img/vk-2-enable-app.png)

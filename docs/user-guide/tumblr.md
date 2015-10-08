@@ -2,7 +2,7 @@ __Để đăng kí một ứng dụng trên Tumblr, vui lòng làm theo các bư
 
 1. Đăng nhập vào [Tumblr](https://www.tumblr.com/) và đi đến trang [Tumblr Apps](https://www.tumblr.com/oauth/apps) để tạo ứng dụng
 2. Nhấn nút "+ Register application" và điền theo thông tin bên dưới 
-    * Default callback URL: __https://api2.soclall.com/callback__
+    * Default callback URL: __https://api2.socialall.io/callback__
     
     <div class="soclall-br"></div>
     ![Tumblr : Register Form](/img/tumblr-1-register-form.jpg)

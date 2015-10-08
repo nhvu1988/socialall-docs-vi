@@ -10,10 +10,10 @@ __Để đăng kí một ứng dụng trên Google, vui lòng làm theo các bư
     ![Google : Consent Screen](/img/google-3-consent-screen.jpg)
     <div class="soclall-br"></div>
 4. Sau đó, chọn tab "Credentials", nhấn nút "Add credentials" và chọn "OAuth 2.0 client ID". Tiếp theo đó, chọn "Web application" và điền thông tin bên dưới:
-    * Authorized Javascript Origins: __http://api2.soclall.com/__
+    * Authorized Javascript Origins: __http://api2.socialall.io/__
     * Authorized Redirect Uris: 
-        - __http://api2.soclall.com/callback__
-        - __https://api2.soclall.com/callback__
+        - __http://api2.socialall.io/callback__
+        - __https://api2.socialall.io/callback__
 5. Sau đó nhấn nút "Create"
     <div class="soclall-br"></div>
     ![Google : Credentials](/img/google-4-credentials.JPG)

@@ -3,8 +3,8 @@ __Để đăng kí một ứng dụng trên Live, vui lòng làm theo các bư�
 1. Đăng nhập vào[Microsoft account](https://account.live.com/) và đi đến trang [Microsoft Developer](https://account.live.com/developers/applications) để tạo ứng dụng
 2. Nhấn nút "Create application", sau đó điền Tên ứng dụng và chọn đồng ý ô "Term Of Service".
 3. Đi đến phần "Api Settings" và điền theo thông tin bên dưới:
-    * Redirect URLs: __http://api2.soclall.com/callback__
-    * Sau đó, chọn "Add another redirect URL" và điền tiếp: __https://api2.soclall.com/callback__
+    * Redirect URLs: __http://api2.socialall.io/callback__
+    * Sau đó, chọn "Add another redirect URL" và điền tiếp: __https://api2.socialall.io/callback__
     
     <div class="soclall-br"></div>
     ![Live : Api Settings Form](/img/live-1-api-settings-form.JPG)

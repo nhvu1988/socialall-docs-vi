@@ -2,7 +2,7 @@ __Để đăng kí một ứng dụng trên Wordpress, vui lòng làm theo các 
 
 1. Đăng nhập vào [Wordpress](https://developer.wordpress.com/apps/) và đi đến trang [Wordpress App](https://developer.wordpress.com/apps/new/) để tạo ứng dụng
 2. Nhấn nút "Create New Application" và điền thông tin như bên dưới
-    * Redirect URL: __https://api2.soclall.com/callback__
+    * Redirect URL: __https://api2.socialall.io/callback__
 3. Sau đó nhấn nút "Create"
     <div class="soclall-br"></div>
     ![Wordpress : Create Form](/img/wordpress-1-create-form.png)
