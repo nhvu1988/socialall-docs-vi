@@ -9,7 +9,7 @@ __Để đăng kí một ứng dụng trên Tumblr, vui lòng làm theo các bư
     <div class="soclall-br"></div>
     
 3. Sau đó nhấn nút "Register"
-4. Sau khi tạo ứng dụng thành công , đi đến trang "Edit", bạn có thể thấy "OAuth consumer key" và "OAuth consumer secret" và lấy chúng để nhập vào Thiết lập ứng dụng Tumblr trên SoclAll.
+4. Sau khi tạo ứng dụng thành công , đi đến trang "Edit", bạn có thể thấy "OAuth consumer key" và "OAuth consumer secret" và lấy chúng để nhập vào Thiết lập ứng dụng Tumblr trên SocialAll.
     <div class="soclall-br"></div>
     ![Tumblr : Register App](/img/tumblr-2-registered-app.jpg)
     <div class="soclall-br"></div>

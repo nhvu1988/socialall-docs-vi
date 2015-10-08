@@ -10,7 +10,7 @@ __Để đăng kí một ứng dụng trên Plurk, vui lòng làm theo các bư�
     <div class="soclall-br"></div>
     
 3. Sau đó nhấn nút "Register App"
-4. Sau khi tạo ứng dụng thành công, đi đến trang "Edit", bạn có thể thấy "App key" và "App secret" và lấy chúng để nhập vào Thiết lập ứng dụng Plurk trên SoclAll.
+4. Sau khi tạo ứng dụng thành công, đi đến trang "Edit", bạn có thể thấy "App key" và "App secret" và lấy chúng để nhập vào Thiết lập ứng dụng Plurk trên SocialAll.
     <div class="soclall-br"></div>
     ![Plurk : Edit Form](/img/plurk-2-edit-form.JPG)
     <div class="soclall-br"></div>

@@ -10,7 +10,7 @@ __Để đăng kí một ứng dụng trên Reddit, vui lòng làm theo các bư
     <div class="soclall-br"></div>
     
 3. Sau đó nhấn nút "create app"
-4. Sau khi tạo ứng dụng thành công, đi đến trang "Edit", bạn có thể thấy "key" và "secret" và lấy chúng để nhập vào Thiết lập ứng dụng Reddit trên SoclAll.
+4. Sau khi tạo ứng dụng thành công, đi đến trang "Edit", bạn có thể thấy "key" và "secret" và lấy chúng để nhập vào Thiết lập ứng dụng Reddit trên SocialAll.
     <div class="soclall-br"></div>
     ![Reddit : Edit Form](/img/reddit-2-edit-form.JPG)
     <div class="soclall-br"></div>

@@ -12,9 +12,9 @@ __Để đăng kí một ứng dụng trên LinkedIn, vui lòng làm theo các b
     <div class="soclall-br"></div>
 4. Sau khi tạo ứng dụng thành công, chọn mục "Authentication".
 5. Trong phần "Default Application Permissions", vui lòng chọn theo:
-    * r_basicprofile: nếu bạn muốn sử dụng "SoclAll Login"
-    * r_emailaddress: nếu bạn muốn sử dụng "SoclAll Invite"
-    * w_share: nếu bạn muốn sử dụng "SoclAll Posting"
+    * r_basicprofile: nếu bạn muốn sử dụng "SocialAll Login"
+    * r_emailaddress: nếu bạn muốn sử dụng "SocialAll Invite"
+    * w_share: nếu bạn muốn sử dụng "SocialAll Posting"
 6. Tại phần "OAuth 2.0", điền vào "Authorized Redirect URLs" : __http://api2.socialall.io/callback__ và ấn nút "Add". Sau đó, điền lần nữa: __https://api2.socialall.io/callback__ và ấn nút "Add".
     <div class="soclall-br"></div>
     ![Linkedin : Authentication Page](/img/linkedin-3-authentication-page.jpg)
@@ -24,4 +24,4 @@ __Để đăng kí một ứng dụng trên LinkedIn, vui lòng làm theo các b
     <div class="soclall-br"></div>
     ![Linkedin : Settings Page](/img/linkedin-4-settings-page.jpg)
     <div class="soclall-br"></div>
-9. Tại trang "Authentication" , bạn có thể thấy "Client ID" và "Client Secret" và lấy chúng để nhập vào Thiết lập ứng dụng LinkedIn trên SoclAll.
+9. Tại trang "Authentication" , bạn có thể thấy "Client ID" và "Client Secret" và lấy chúng để nhập vào Thiết lập ứng dụng LinkedIn trên SocialAll.

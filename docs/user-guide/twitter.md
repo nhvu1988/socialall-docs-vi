@@ -10,15 +10,15 @@ __Để đăng kí một ứng dụng trên Twitter, vui lòng làm theo các b�
     <div class="soclall-br"></div>
 4. Sau khi tạo ứng dụng thành công, đi đến trang "Application Management".
 5. Ở thẻ "Permissions", vui lòng chọn
-    * Readonly: nếu bạn chỉ sử dụng "SoclAll Login" 
-    * Read and Write: nếu bạn muốn sử dụng "SoclAll Posting"
-    * Read, Write and Access direct messages: nếu bạn muốn sử dụng "SoclAll Invite"
+    * Readonly: nếu bạn chỉ sử dụng "SocialAll Login" 
+    * Read and Write: nếu bạn muốn sử dụng "SocialAll Posting"
+    * Read, Write and Access direct messages: nếu bạn muốn sử dụng "SocialAll Invite"
     
     <div class="soclall-br"></div>
     ![Twitter : Permission Form](/img/twitter-2-permission-form.JPG)
     <div class="soclall-br"></div>
     
-6. Ở thẻ "Keys and Access Tokens", bạn có thể thấy "Consumer Key" và "Consumer Secret" và lấy chúng để điền vào Thiết lập ứng dụng Twitter trên SoclAll.
+6. Ở thẻ "Keys and Access Tokens", bạn có thể thấy "Consumer Key" và "Consumer Secret" và lấy chúng để điền vào Thiết lập ứng dụng Twitter trên SocialAll.
     <div class="soclall-br"></div>
     ![Twitter : Consumer Form](/img/twitter-3-consumer-form.JPG)
     <div class="soclall-br"></div>

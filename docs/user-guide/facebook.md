@@ -23,4 +23,4 @@ __Để tạo một ứng dụng trên Facebook, hãy làm theo các bước sau
     <div class="soclall-br"></div>
     ![Facebook : Status Page](/img/facebook-4-status-page.jpg)
     <div class="soclall-br"></div>    
-8. Tại trang "Settings", bạn có thể thấy "App ID" và "App Secret" và lấy chúng để nhập vào Thiết lập ứng dụng Facebook trên SoclAll.
+8. Tại trang "Settings", bạn có thể thấy "App ID" và "App Secret" và lấy chúng để nhập vào Thiết lập ứng dụng Facebook trên SocialAll.

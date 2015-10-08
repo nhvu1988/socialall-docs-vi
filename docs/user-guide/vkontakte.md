@@ -15,5 +15,5 @@ __Để đăng kí một ứng dụng trên VK, vui lòng làm theo các bước
     ![VK : Enable App](/img/vk-2-enable-app.png)
     <div class="soclall-br"></div>
     
-4. Tại mục "Settings", bạn có thể thấy "Application ID" và "Secure key" và lấy chúng để nhập vào Thiết lập ứng dụng VK trên SoclAll.
+4. Tại mục "Settings", bạn có thể thấy "Application ID" và "Secure key" và lấy chúng để nhập vào Thiết lập ứng dụng VK trên SocialAll.
 

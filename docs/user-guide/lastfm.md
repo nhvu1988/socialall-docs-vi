@@ -12,7 +12,7 @@ __Để đăng kí một ứng dụng trên Last.fm, vui lòng làm theo các b�
     ![Last.fm : Update Callback](/img/lastfm-2-update-callback.JPG)
     <div class="soclall-br"></div>
     
-4. Tại trang này, bạn có thể thấy "API Key" và "Secret" và lấy chúng để nhập vào Thiết lập ứng dụng Last.fm trên SoclAll.
+4. Tại trang này, bạn có thể thấy "API Key" và "Secret" và lấy chúng để nhập vào Thiết lập ứng dụng Last.fm trên SocialAll.
     <div class="soclall-br"></div>
     ![Last.fm : Settings](/img/lastfm-3-settings.JPG)
     <div class="soclall-br"></div>

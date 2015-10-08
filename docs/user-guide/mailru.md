@@ -22,7 +22,7 @@ __Để đăng kí một ứng dụng trên Mail.ru, vui lòng làm theo các b�
     <div class="soclall-br"></div>
     ![Mail.Ru : Skip Step 2](/img/mailru-4.2-skip-step.png)
     <div class="soclall-br"></div>
-5. Sau khi tạo ứng dụng thành công, bạn có thể thấy "ID" và "Секретный ключ" và lấy chúng để nhập vào Thiết lập ứng dụng Mail.ru trên SoclAll.
+5. Sau khi tạo ứng dụng thành công, bạn có thể thấy "ID" và "Секретный ключ" và lấy chúng để nhập vào Thiết lập ứng dụng Mail.ru trên SocialAll.
     <div class="soclall-br"></div>
     ![Mail.Ru : Edit Form](/img/mailru-5-get-app-id.png)
     <div class="soclall-br"></div>
