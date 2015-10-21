@@ -15,5 +15,10 @@ __Để đăng kí một ứng dụng trên VK, vui lòng làm theo các bước
     ![VK : Enable App](/img/vk-2-enable-app.png)
     <div class="soclall-br"></div>
     
-4. Tại mục "Settings", bạn có thể thấy "Application ID" và "Secure key" và lấy chúng để nhập vào Thiết lập ứng dụng VK trên SocialAll.
+4. Tại mục "Settings", bạn có thể thấy "Application ID" và "Secure key".
+5. Tại trang SocialAll, bạn chọn tab "Networks" ---> chọn "Vkontakte" ---> bạn chép "Application ID", "Secure key" và điền vào như hình bên dưới:
+    <div class="soclall-br"></div>
+    ![VK : Config Api](/img/vk-3-config-api.png)
+    <div class="soclall-br"></div>
+6. Sau cùng, bạn nhấn nút "Save".
 

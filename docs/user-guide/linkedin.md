@@ -24,4 +24,12 @@ __Để đăng kí một ứng dụng trên LinkedIn, vui lòng làm theo các b
     <div class="soclall-br"></div>
     ![Linkedin : Settings Page](/img/linkedin-4-settings-page.jpg)
     <div class="soclall-br"></div>
-9. Tại trang "Authentication" , bạn có thể thấy "Client ID" và "Client Secret" và lấy chúng để nhập vào Thiết lập ứng dụng LinkedIn trên SocialAll.
+9. Tại trang "Authentication" , bạn có thể thấy "Client ID" và "Client Secret".
+    <div class="soclall-br"></div>
+    ![LinkedIn : Get Api](/img/linkedin-5-get-api.jpg)
+    <div class="soclall-br"></div>
+10. Tại trang SocialAll, bạn chọn tab "Networks" ---> chọn "LinkedIn" ---> bạn chép "Client ID", "Client Secret" và điền vào như hình bên dưới:
+    <div class="soclall-br"></div>
+    ![LinkedIn : Config Api](/img/linkedin-6-config-api.jpg)
+    <div class="soclall-br"></div>
+11. Sau cùng, bạn nhấn nút "Save".

@@ -22,7 +22,12 @@ __Để đăng kí một ứng dụng trên Mail.ru, vui lòng làm theo các b�
     <div class="soclall-br"></div>
     ![Mail.Ru : Skip Step 2](/img/mailru-4.2-skip-step.png)
     <div class="soclall-br"></div>
-5. Sau khi tạo ứng dụng thành công, bạn có thể thấy "ID" và "Секретный ключ" và lấy chúng để nhập vào Thiết lập ứng dụng Mail.ru trên SocialAll.
+5. Sau khi tạo ứng dụng thành công, bạn có thể thấy "ID" và "Секретный ключ".
     <div class="soclall-br"></div>
     ![Mail.Ru : Edit Form](/img/mailru-5-get-app-id.png)
     <div class="soclall-br"></div>
+6. Tại trang SocialAll, bạn chọn tab "Networks" ---> chọn "Mail.ru" ---> bạn chép "ID" vào "client_id" và chép "Секретный ключ" vào "client_secret" như hình bên dưới:
+    <div class="soclall-br"></div>
+    ![Mail.ru : Config Api](/img/mailru-6-config-api.png)
+    <div class="soclall-br"></div>
+7. Sau cùng, bạn nhấn nút "Save".

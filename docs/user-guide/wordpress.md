@@ -8,7 +8,12 @@ __Để đăng kí một ứng dụng trên Wordpress, vui lòng làm theo các 
     ![Wordpress : Create Form](/img/wordpress-1-create-form.png)
     <div class="soclall-br"></div>
 4. Sau khi tạo ứng dụng thành công, đi đến "Application Management".
-5. Tại mục "OAuth Information", bạn có thể thấy "Client ID" và "Client Secret" và lấy chúng để nhập vào Thiết lập ứng dụng Wordpress trên SocialAll.
+5. Tại mục "OAuth Information", bạn có thể thấy "Client ID" và "Client Secret".
     <div class="soclall-br"></div>
     ![Wordpress : Api Info](/img/wordpress-2-api-info.png)
     <div class="soclall-br"></div>
+5. Tại trang SocialAll, bạn chọn tab "Networks" ---> chọn "Wordpress" ---> bạn chép "Client ID", "Client Secret" và điền vào như hình bên dưới:
+    <div class="soclall-br"></div>
+    ![Wordpress : Config Api](/img/wordpress-3-config-api.png)
+    <div class="soclall-br"></div>
+6. Sau cùng, bạn nhấn nút "Save".

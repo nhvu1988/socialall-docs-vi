@@ -13,7 +13,12 @@ __Để đăng kí một ứng dụng trên Disqus, vui lòng làm theo các bư
     ![Disqus : Settings](/img/disqus-2-settings.png)
     <div class="soclall-br"></div>
     
-4. Trong mục "Details", bạn có thể thấy "API Key" và "API Secret" và lấy chúng để nhập vào Thiết lập ứng dụng Disqus trên SocialAll.
+4. Trong mục "Details", bạn có thể thấy "API Key" và "API Secret".
     <div class="soclall-br"></div>
     ![Disqus : Api Info](/img/disqus-3-api-info.png)
     <div class="soclall-br"></div>
+5. Tại trang SocialAll, bạn chọn tab "Networks" ---> chọn "Disqus" ---> bạn chép "API Key", "API Secret" và điền vào như hình bên dưới:
+    <div class="soclall-br"></div>
+    ![Disqus : Config Api](/img/disqus-4-config-soclall.png)
+    <div class="soclall-br"></div>
+6. Sau cùng, bạn nhấn nút "Save".

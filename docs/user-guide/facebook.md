@@ -23,4 +23,12 @@ __Để tạo một ứng dụng trên Facebook, hãy làm theo các bước sau
     <div class="soclall-br"></div>
     ![Facebook : Status Page](/img/facebook-4-status-page.jpg)
     <div class="soclall-br"></div>    
-8. Tại trang "Settings", bạn có thể thấy "App ID" và "App Secret" và lấy chúng để nhập vào Thiết lập ứng dụng Facebook trên SocialAll.
+8. Tại trang "Settings", bạn có thể thấy "App ID" và "App Secret". Để có thể lấy "App Secret", bạn nhấn nút "Show" ---> điền vào Mật khẩu của tài khoản Facebook của bạn.
+    <div class="soclall-br"></div>
+    ![Facebook : Get Api](/img/facebook-5-get-api.jpg)
+    <div class="soclall-br"></div>
+9. Tại trang SocialAll, bạn chọn tab "Networks" ---> chọn "Facebook" ---> bạn chép "App ID", "App Secret" và điền vào như hình bên dưới:
+    <div class="soclall-br"></div>
+    ![Facebook : Config Api](/img/facebook-6-config-api.jpg)
+    <div class="soclall-br"></div>
+10. Sau cùng, bạn nhấn nút "Save".

@@ -11,7 +11,12 @@ __Để đăng kí một ứng dụng trên Live, vui lòng làm theo các bư�
     <div class="soclall-br"></div>
     
 4. Sau khi đã điền xong, nhấn nút "Save".
-5. Đi đến trang "App Settings", bạn có thể thấy "Client ID" và "Client secret" và lấy chúng để nhập vào Thiết lập ứng dụng Live trên SocialAll.
+5. Đi đến trang "App Settings", bạn có thể thấy "Client ID" và "Client secret".
     <div class="soclall-br"></div>
     ![Live : Api Settings Form](/img/live-2-app-settings-form.JPG)
     <div class="soclall-br"></div>
+6. Tại trang SocialAll, bạn chọn tab "Networks" ---> chọn "Live" ---> bạn chép "Client ID", "Client secret" và điền vào như hình bên dưới:
+    <div class="soclall-br"></div>
+    ![Live : Config Api](/img/live-3-config-api.jpg)
+    <div class="soclall-br"></div>
+7. Sau cùng, bạn nhấn nút "Save".

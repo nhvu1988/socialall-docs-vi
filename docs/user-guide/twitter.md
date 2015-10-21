@@ -18,7 +18,12 @@ __Để đăng kí một ứng dụng trên Twitter, vui lòng làm theo các b�
     ![Twitter : Permission Form](/img/twitter-2-permission-form.JPG)
     <div class="soclall-br"></div>
     
-6. Ở thẻ "Keys and Access Tokens", bạn có thể thấy "Consumer Key" và "Consumer Secret" và lấy chúng để điền vào Thiết lập ứng dụng Twitter trên SocialAll.
+6. Ở thẻ "Keys and Access Tokens", bạn có thể thấy "Consumer Key" và "Consumer Secret".
     <div class="soclall-br"></div>
     ![Twitter : Consumer Form](/img/twitter-3-consumer-form.JPG)
     <div class="soclall-br"></div>
+7. Tại trang SocialAll, bạn chọn tab "Networks" ---> chọn "Twitter" ---> bạn chép "Consumer Key", "Consumer Secret" và điền vào như hình bên dưới:
+    <div class="soclall-br"></div>
+    ![Twitter : Config Api](/img/twitter-4-config-api.jpg)
+    <div class="soclall-br"></div>
+8. Sau cùng, bạn nhấn nút "Save".

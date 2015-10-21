@@ -23,7 +23,12 @@ __Để đăng kí một ứng dụng trên Google, vui lòng làm theo các bư
     <div class="soclall-br"></div>
     ![Google : Enable APIs](/img/google-5-apis.jpg)
     <div class="soclall-br"></div>
-8. Sau khi tạo thành công Client Id, tại trang "Credentials", nhấn chọn client ID vừa tạo, bạn có thể thấy "Client ID", "Client Secret" và lấy chúng để nhập vào Thiết lập ứng dụng Google trên SocialAll.
+8. Sau khi tạo thành công Client Id, tại trang "Credentials", nhấn chọn client ID vừa tạo, bạn có thể thấy "Client ID", "Client Secret".
     <div class="soclall-br"></div>
     ![Google : Client Info](/img/google-6-client-info.JPG)
     <div class="soclall-br"></div>
+9. Tại trang SocialAll, bạn chọn tab "Networks" ---> chọn "Google" ---> bạn chép "Client ID", "Client Secret" và điền vào như hình bên dưới:
+    <div class="soclall-br"></div>
+    ![Google : Config Api](/img/google-7-config-api.jpg)
+    <div class="soclall-br"></div>
+10. Sau cùng, bạn nhấn nút "Save".

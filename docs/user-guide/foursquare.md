@@ -9,7 +9,12 @@ __Để đăng kí một ứng dụng trên Foursquare, vui lòng làm theo các
     <div class="soclall-br"></div>
     
 3. Sau khi tạo ứng dụng thành công, đi đến trang "Application Management".
-4. Tại mục "App Details", bạn có thể thấy "Client ID" và"Client Secret" và lấy chúng để nhập vào Thiết lập ứng dụng Foursquare trên SocialAll.
+4. Tại mục "App Details", bạn có thể thấy "Client ID" và"Client Secret".
     <div class="soclall-br"></div>
     ![Foursquare : Api Info](/img/foursquare-2-api-info.png)
     <div class="soclall-br"></div>
+5. Tại trang SocialAll, bạn chọn tab "Networks" ---> chọn "Foursquare" ---> bạn chép "Client ID", "Client Secret" và điền vào như hình bên dưới:
+    <div class="soclall-br"></div>
+    ![Foursquare : Config Api](/img/foursquare-3-config-api.png)
+    <div class="soclall-br"></div>
+6. Sau cùng, bạn nhấn nút "Save".
