@@ -1,3 +1,7 @@
+__Video: Các bước để thiết lập một ứng dụng Facebook__
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2xt8w-yQHgk" frameborder="0" allowfullscreen></iframe>
+<br /><br />
 __Để tạo một ứng dụng trên Facebook, hãy làm theo các bước sau:__
 
 1. Đăng nhập vào [Facebook](http://www.facebook.com) và đi đến trang [Facebook Developer Page](https://developers.facebook.com/quickstarts/?platform=web) để tạo ứng dụng.
