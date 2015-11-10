@@ -23,4 +23,7 @@ __Để tạo một ứng dụng trên Instagram, hãy làm theo các bước sa
     ![Instagram : Manage Clients](/img/ins-4-manage-clients.png)
     <div class="soclall-br"></div>
 8. Tại trang SocialAll, bạn chọn tab "Networks" ---> chọn "Instagram" ---> bạn chép "Client ID", "Client Secret" và điền vào như hình bên dưới:
+    <div class="soclall-br"></div>
+    ![Instagram : Fill API](/img/ins-5-fill-api.png)
+    <div class="soclall-br"></div>
 9. Sau cùng, bạn nhấn nút "Save".
