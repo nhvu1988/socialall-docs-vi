@@ -10,7 +10,7 @@ __Để đăng kí một ứng dụng trên Mail.ru, vui lòng làm theo các b�
     ![Mail.Ru : Accept the rules](/img/mailru-2-accept-per.png)
     <div class="soclall-br"></div>
 3. Điền vào form đăng kí theo thông tin sau:
-    * Название: SoclAll
+    * Название: (name of application)
     * Адрес главной страницы: __https://api2.socialall.io/__ <br/>
    Và nhấn vào nút được khoanh đỏ.
     <div class="soclall-br"></div>
