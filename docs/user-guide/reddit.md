@@ -1,3 +1,7 @@
+__Video: Các bước để thiết lập một ứng dụng Reddit__
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dnz4ckIzCqU" frameborder="0" allowfullscreen></iframe>
+<br /><br />
 __Để đăng kí một ứng dụng trên Reddit, vui lòng làm theo các bước sau:__
 
 1. Đăng nhập vào [Reddit](https://www.reddit.com/) và đi đến trang [Reddit Apps](https://www.reddit.com/prefs/apps/) và tạo ứng dụng

@@ -1,3 +1,7 @@
+__Video: Các bước để thiết lập một ứng dụng Twitter__
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dp7x0ZJHwxY" frameborder="0" allowfullscreen></iframe>
+<br /><br />
 __Để đăng kí một ứng dụng trên Twitter, vui lòng làm theo các bước sau:__
 
 1. Đăng nhập vào [Twitter](https://www.twitter.com/) và đi đến trang [Twitter App](http://apps.twitter.com/) để tạo ứng dụng.

@@ -1,3 +1,7 @@
+__Video: Các bước để thiết lập một ứng dụng Google Plus__
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-1DBoagbWlE" frameborder="0" allowfullscreen></iframe>
+<br /><br />
 __Để đăng kí một ứng dụng trên Google, vui lòng làm theo các bước sau:__
 
 1. Đăng nhập vào [Google Account](https://accounts.google.com/) và đi đến trang [Google Developer](https://console.developers.google.com/) để tạo ứng dụng
