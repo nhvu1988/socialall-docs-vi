@@ -1,3 +1,7 @@
+__Video: Các bước để thiết lập một ứng dụng Tumblr:__
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uf_EkYamUUI" frameborder="0" allowfullscreen></iframe>
+<br /><br />
 __Để đăng kí một ứng dụng trên Tumblr, vui lòng làm theo các bước sau:__
 
 1. Đăng nhập vào [Tumblr](https://www.tumblr.com/) và đi đến trang [Tumblr Apps](https://www.tumblr.com/oauth/apps) để tạo ứng dụng

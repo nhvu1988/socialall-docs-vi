@@ -1,3 +1,7 @@
+__Video: Các bước để thiết lập một ứng dụng Plurk:__
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lOgCNtWp8bI" frameborder="0" allowfullscreen></iframe>
+<br /><br />
 __Để đăng kí một ứng dụng trên Plurk, vui lòng làm theo các bước sau:__
 
 1.  Đăng nhập vào [Plurk](http://www.plurk.com/) và đi tới trang [Plurk App](http://www.plurk.com/PlurkApp) để tạo ứng dụng

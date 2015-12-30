@@ -1,3 +1,7 @@
+__Video: Các bước để thiết lập một ứng dụng Mail.ru:__
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vbIhAOz6s4Y" frameborder="0" allowfullscreen></iframe>
+<br /><br />
 __Để đăng kí một ứng dụng trên Mail.ru, vui lòng làm theo các bước sau:__
 
 1. Đăng nhập vào [Mail.Ru](https://e.mail.ru/signup?lang=en_US) và đi đến trang [Mail.Ru App](http://api.mail.ru/sites/my/add/) để tạo ứng dụng. <br />

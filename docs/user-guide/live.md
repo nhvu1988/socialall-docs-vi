@@ -1,3 +1,7 @@
+__Video: Các bước để thiết lập một ứng dụng Live:__
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/25u_82RGyOc" frameborder="0" allowfullscreen></iframe>
+<br /><br />
 __Để đăng kí một ứng dụng trên Live, vui lòng làm theo các bước sau:__
 
 1. Đăng nhập vào[Microsoft account](https://account.live.com/) và đi đến trang [Microsoft Developer](https://account.live.com/developers/applications) để tạo ứng dụng

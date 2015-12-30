@@ -1,3 +1,7 @@
+__Video: Các bước để thiết lập một ứng dụng Amazon:__
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5zm_DKJf0XE" frameborder="0" allowfullscreen></iframe>
+<br /><br />
 __Để tạo một ứng dụng trên Amazon, hãy làm theo các bước sau:__
 
 1. Đăng nhập vào [Amazon](https://login.amazon.com/) và đi đến trang [Amazon Developer Page](https://sellercentral.amazon.com/gp/homepage.html) để tạo ứng dụng.

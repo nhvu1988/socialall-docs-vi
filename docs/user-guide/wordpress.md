@@ -1,3 +1,7 @@
+__Video: Các bước để thiết lập một ứng dụng Wordpress:__
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n6igclVDlPs" frameborder="0" allowfullscreen></iframe>
+<br /><br />
 __Để đăng kí một ứng dụng trên Wordpress, vui lòng làm theo các bước sau:__
 
 1. Đăng nhập vào [Wordpress](https://developer.wordpress.com/apps/) và đi đến trang [Wordpress App](https://developer.wordpress.com/apps/new/) để tạo ứng dụng
