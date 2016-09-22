@@ -23,4 +23,7 @@ __Để tạo một ứng dụng trên Pinterest, hãy làm theo các bước sa
     ![Pinterest : Get API](/img/pin-4-get-api.png)
     <div class="soclall-br"></div>
 8. Tại trang SocialAll, bạn chọn tab "Networks" ---> chọn "Pinterest" ---> bạn chép "App ID", "App secret" và điền vào như hình bên dưới:
+    <div class="soclall-br"></div>
+    ![Pinterest : Config API](/img/pin-5-config-api.png)
+    <div class="soclall-br"></div>
 9. Sau cùng, bạn nhấn nút "Save".
